@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pragya Gaur</h1>
-# 💫 About Me:
+
+💫 About Me:
 💻 B.Tech student passionate about Full-Stack Development & Problem Solving<br>🚀 MERN Stack Developer (MongoDB, Express, React, Node.js)<br>📧 Experienced in authentication, role-based access & REST APIs<br>🎹 Piano instrumental creator on YouTube & Spotify<br>📈 Always learning, building & improving
 
 
