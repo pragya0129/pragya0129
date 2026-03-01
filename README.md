@@ -11,12 +11,12 @@
 
 ## 🚀 About Me
 
-💻 B.Tech student passionate about **Full-Stack Development & Software Engineering**
-⚡ Specialized in **MERN Stack (MongoDB, Express, React, Node.js)**
-🔐 Experienced with **Authentication, RBAC & REST APIs**
-🎯 Strong interest in **DSA & system design thinking**
-🎹 Piano instrumental creator on **YouTube & Spotify**
-📈 Always learning, building, and improving every day
+💻 B.Tech student passionate about **Full-Stack Development & Software Engineering** <br>
+⚡ Specialized in **MERN Stack (MongoDB, Express, React, Node.js)** <br>
+🔐 Experienced with **Authentication, RBAC & REST APIs** <br>
+🎯 Strong interest in **DSA & system design thinking** <br>
+🎹 Piano instrumental creator on **YouTube & Spotify** <br>
+📈 Always learning, building, and improving every day <br>
 
 ---
 
@@ -61,15 +61,6 @@
 
 ---
 
-## 🧠 Currently Focused On
-
-* 🔥 Advanced MERN Architecture
-* 📊 Data Structures & Algorithms
-* ⚡ Performance Optimization
-* 🎨 Interactive Visualizations (DSA Visualizer Project)
-
----
-
 ## 📊 GitHub Analytics
 
  <p align="center">
@@ -83,13 +74,6 @@
 
 ---
 
-## 🎯 Developer Philosophy
-
-> Build things that **teach**, not just things that work.
-> Code with logic. Design with empathy. Create with curiosity.
-
----
-
 ## 🎵 Beyond Coding
 
 When I'm not coding, you'll find me:
@@ -97,11 +81,5 @@ When I'm not coding, you'll find me:
 * 🎹 Creating piano instrumentals
 * 🎧 Exploring music production
 * ✨ Mixing creativity with technology
-
----
-
-<p align="center">
-⭐ From <b>Pragya Gaur</b> — blending Logic & Music
-</p>
 
 <!-- ================= END ================= -->
