@@ -72,14 +72,14 @@
 
 ## 📊 GitHub Analytics
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pragya0129&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=pragya0129&theme=tokyonight&hide_border=true" height="170"/>
-</p> -->
+  <!-- <img src="https://streak-stats.demolab.com?user=pragya0129&theme=tokyonight&hide_border=true" height="170"/> -->
+</p> 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragya0129&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 
