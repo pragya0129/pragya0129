@@ -62,7 +62,7 @@
 ---
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pragya0129)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pragya0129&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -73,9 +73,13 @@
   <img src="https://streak-stats.demolab.com?user=pragya0129&theme=tokyonight&hide_border=true" height="170"/> 
 </p> 
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragya0129&layout=compact&theme=tokyonight&hide_border=true"/>
-</p> -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pragya0129&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pragya0129&theme=tokyonight&utcOffset=5.5" />
+</p>
 
 ---
 
