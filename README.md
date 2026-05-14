@@ -60,6 +60,11 @@
 </p>
 
 ---
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pragya0129)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ## 📊 GitHub Analytics
 
